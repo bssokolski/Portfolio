@@ -1,0 +1,29 @@
+.jumbotron{
+    height: 700px;
+}
+.jumbotron h1{
+    margin-top: 15%;
+    font-size: 75px;
+}
+.bgg{
+    background: url("https://cdn.pixabay.com/photo/2015/06/24/20/02/capitol-820611_1280.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bgg2{
+    background-color: black;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+.card{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 200px;
+}
